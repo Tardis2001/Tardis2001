@@ -1,4 +1,4 @@
-// <p align="center"><img style="width:768px" src="Banner.png"/></p>
+
 <h1 align="center">Hi there, i'm Tardis AKA Matheus Evangelista 👋</h1>
 <h2 align="center">I'm a dev and computer science student!!</h2>
 <p align="justify-content">I love to code and to create new things, i like challenges and to be able to do them as it fit me,
