@@ -1,13 +1,12 @@
 
-<h1 align="center">Hi there, i'm Tardis AKA Matheus Evangelista 👋</h1>
+<h1 align="center">Hi there, i'm Matheus Santos Evangelista 👋</h1>
 <h2 align="center">I'm a dev and computer science student!!</h2>
 <p align="justify-content">I love to code and to create new things, i like challenges and to be able to do them as it fit me,
 	i love puzzles and games like tetris,CSGO and playing basketball.</p>
 
-> **My OS**  						![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+ **OS**  						![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 **🔭 I’m currently working on ...**
-- My mom's website
 - Some other java projects to train
 - My own portfolio
 
@@ -16,8 +15,6 @@
 - ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-**👯 I’m looking to collaborate on ...**
-- Literally anything 😄 
 
 **📫 How to reach me: ...**
 - Email : matheus_santos_evangelista@hotmail.com
