@@ -4,8 +4,6 @@
 <p align="justify-content">I love to code and to create new things, i like challenges and to be able to do them as it fit me,
 	i love puzzles and games like tetris,CSGO and playing basketball.</p>
 
- **OS**  						![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
 **🔭 I’m currently working on ...**
 - Some other java projects to train
 - My own portfolio
