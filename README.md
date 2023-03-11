@@ -4,19 +4,6 @@
 <p align="justify-content">I love to code and to create new things, i like challenges and to be able to do them as it fit me,
 	i love puzzles and games like tetris,CSGO and playing basketball.</p>
 
-**🔭 I’m currently working on ...**
-- Some other java projects to train
-- My own portfolio
-
-**🌱 I’m currently learning and have interest in...**
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-
-**📫 How to reach me: ...**
-- Email : matheus_santos_evangelista@hotmail.com
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tardis2001&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
