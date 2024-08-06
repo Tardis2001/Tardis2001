@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=dark&height=300&section=header&text=Eu%20sou%20Matheus%20Santos%20Evangelista&animation=twinkling&fontSize=40)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=F7EFEF&center=true&vCenter=true&width=700&height=60&lines=Sou+um+desenvolvedor;E+gosto+de+resolver+desafios;Gosto+de+jogar;Tambem+gosto+de+praticar+basquete)](https://git.io/typing-svg)
-
 ---
 <div align="center">
 	
